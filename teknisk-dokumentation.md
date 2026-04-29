@@ -6,22 +6,14 @@
 ## Innan installationen påbörjas måste måldatorn uppfylla de minimala systemkraven för Windows 11.
 Komponent
 Minimikrav
-Processor
-1 GHz eller snabbare med minst 2 kärnor på en kompatibel 64-bitars processor.
-RAM-minne
-Minst 4 GB.
-Lagringsutrymme
-Minst 64 GB ledigt utrymme.
-Firmware
-UEFI, kompatibel med Säker start (Secure Boot).
-TPM
-Trusted Platform Module (TPM) version 2.0.
-Grafikkort
-Kompatibelt med DirectX 12 eller senare med WDDM 2.0-drivrutin.
-Skärm
-Högupplöst (720p) skärm, större än 9 tum diagonalt.
-Internetanslutning
-Krävs för att slutföra enhetskonfigurationen vid första användningen.
+* Processor 1 GHz eller snabbare med minst 2 kärnor på en kompatibel 64-bitars processor.
+* RAM-minne Minst 4 GB.
+* Lagringsutrymme Minst 64 GB ledigt utrymme.
+* Firmware UEFI, kompatibel med Säker start (Secure Boot).
+* TPM Trusted Platform Module (TPM) version 2.0.
+* Grafikkort Kompatibelt med DirectX 12 eller senare med WDDM 2.0-drivrutin.
+* Skärm Högupplöst (720p) skärm, större än 9 tum diagonalt.
+* Internetanslutning Krävs för att slutföra enhetskonfigurationen vid första användningen.
 
 # 2. Förberedelser
 Säkerställ att följande är på plats innan processen inleds:
