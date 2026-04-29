@@ -3,7 +3,7 @@
 ## Denna dokumentation beskriver processen för att utföra en ren installation av operativsystemet Windows 11. Instruktionerna täcker allt från förberedelser till den slutgiltiga konfigurationen (OOBE - Out-of-Box Experience).
 
 # 1. Systemkrav
-## Innan installationen påbörjas måste måldatorn uppfylla de minimala systemkraven för Windows 11.
+**Innan installationen påbörjas måste måldatorn uppfylla de minimala systemkraven för Windows 11.**
 Komponent
 Minimikrav
 * Processor 1 GHz eller snabbare med minst 2 kärnor på en kompatibel 64-bitars processor.
@@ -16,11 +16,11 @@ Minimikrav
 * Internetanslutning Krävs för att slutföra enhetskonfigurationen vid första användningen.
 
 # 2. Förberedelser
-Säkerställ att följande är på plats innan processen inleds:
-Säkerhetskopiering: Backa upp all viktig användardata till en extern enhet eller molntjänst, eftersom en ren installation raderar innehållet på systemdisken.
-Installationsmedia: Ett tomt USB-minne med minst 8 GB lagringsutrymme.
-Licensnyckel: Ha en giltig Windows 11-produktnyckel tillgänglig (om systemet inte har en digital licens knuten till moderkortet).
-Nätverksdrivrutiner: Om du installerar på en helt ny dator, ladda ner drivrutiner för nätverkskortet (Wi-Fi/LAN) på förhand och lägg dem på ett separat USB-minne för säkerhets skull.
+**Säkerställ att följande är på plats innan processen inleds:**
+* **Säkerhetskopiering:** Backa upp all viktig användardata till en extern enhet eller molntjänst, eftersom en ren installation raderar innehållet på systemdisken.
+* **Installationsmedia:** Ett tomt USB-minne med minst 8 GB lagringsutrymme.
+* **Licensnyckel:** Ha en giltig Windows 11-produktnyckel tillgänglig (om systemet inte har en digital licens knuten till moderkortet).
+* **Nätverksdrivrutiner:** Om du installerar på en helt ny dator, ladda ner drivrutiner för nätverkskortet (Wi-Fi/LAN) på förhand och lägg dem på ett separat USB-minne för säkerhets skull.
 
 # 3. Skapa Installationsmedia
 Om du inte redan har ett startbart USB-minne med Windows 11, följ dessa steg på en fungerande dator:
